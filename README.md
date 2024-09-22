@@ -1,16 +1,20 @@
-## Hi there 👋
+## 🚀🔎 About Me 
 
-<!--
-**omargabrielleon/omargabrielleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Omar!! 
 
-Here are some ideas to get you started:
+but you can call me Gabriel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+a bit about me personally:
+
+* ❤️ I love, like a lot!!.
+* ⚡ Fun fact: Applied for a VFX Diploma at KPU. Jumping from engineering to entertainment arts.
+* 🔭 I’m currently studying QA Engineer at TripleTen forging also another branch of knowledge.
+* 🌱 I’m currently learning Python.
+* 📫 How to reach me...
+
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omargabrielleon/)
