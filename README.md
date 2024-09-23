@@ -1,4 +1,5 @@
-![Banner](./qa_tester_omar.png)
+![Banner](/qa_tester_omar.png)
+
 ## 🚀🔎 About Me
 
 Hi, I’m Omar!! 
