@@ -1,4 +1,4 @@
-![Banner](./omargabrielleon/QA_Tester_OM.png)
+![Banner](./qa_tester_omar.png)
 ## 🚀🔎 About Me
 
 Hi, I’m Omar!! 
