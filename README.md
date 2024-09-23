@@ -1,4 +1,4 @@
-![Banner](./[QA_Tester_OM.png](https://repository-images.githubusercontent.com/861404875/04ed0606-a5af-44e7-934f-539f8c1f793a))
+![Banner](./QA_Tester_OM.png)
 ## 🚀🔎 About Me
 
 Hi, I’m Omar!! 
