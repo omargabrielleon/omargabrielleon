@@ -1,4 +1,5 @@
-## 🚀🔎 About Me 
+![Banner](./QA_Tester_OM.png)
+## 🚀🔎 About Me
 
 Hi, I’m Omar!! 
 
