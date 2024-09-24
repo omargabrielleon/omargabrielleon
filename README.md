@@ -1,4 +1,3 @@
-![Banner](./qa_tester_omar.png)
 
 ## 🚀🔎 About Me
 
